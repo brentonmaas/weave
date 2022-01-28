@@ -28,7 +28,7 @@ func main() {
 	fmt.Println("Calculations complete")
 
 	resultFile := writeDataToCsv(output)
-	fmt.Println("Calculations Result saved to file: " + resultFile)
+	fmt.Println("Calculation Results saved to file: " + resultFile)
 	fmt.Println("End")
 }
 
