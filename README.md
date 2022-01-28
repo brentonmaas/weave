@@ -61,6 +61,8 @@ Calculation Result saved to file: cost_1643374352.csv
 End
 ```
 
+If you would like to change the source csv file you can do so by saving the new csv file in the project root folder and editing the main.go file with the new csv files name on line 17.
+
 ## Linter and test results
 
 ### Linter
